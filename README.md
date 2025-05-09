@@ -1,6 +1,7 @@
 # 🎬 Fabflix Movie Platform
 
 A scalable and cloud-native movie browsing and shopping platform with search, reviews, and purchase features — deployed using Kubernetes and AWS.
+![image](https://github.com/user-attachments/assets/1d4c28f6-a14f-4fd9-b6df-3da9a61ea84c)
 
 ---
 
